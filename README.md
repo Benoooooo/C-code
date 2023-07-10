@@ -2,7 +2,7 @@
 ~~~~
 school: alx-africa
 ~~~~
-*The best way to master C programming is to practice what you learn on a regular basics* _eme_
+*The best way to master C programming is to practice what you learn on a regular basics*;
 **Here are some important tips**
 -practice on projects
 -practice randomly on a concept
